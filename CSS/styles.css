@@ -1,0 +1,103 @@
+body{
+  margin: 0;
+  background-color: white;
+}
+/*.kk {
+  background-color: black;
+  height: 50px; width: 100%;
+  position: fixed;
+  color: white;
+}
+.h{
+  margin: 0;
+  position: absolute;
+  top: 3px; left: 40%;
+}*/
+p{
+  position: absolute;
+  top: 17px; left: 130px;
+
+}
+.a{
+  color: #66BFBF;
+  background-color: #EAF6F6;
+  height: 674px; width: 100;
+}
+.j{
+  position: absolute;
+  left: 40px;
+
+}
+.c{
+  width: 300px;
+  position: absolute;
+  right: 100px;
+}
+.cc{
+  width: 250px;
+  position: absolute;
+  left: 50px;
+}
+/*.n{
+  /*font-size: 60px;
+}*/
+.m{
+  position: absolute;
+  left: 300px;
+  height: 300px;
+}
+.n{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+.o{
+  height: 500px;
+}
+.f{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+}
+.l{
+  font-family: 'Merriweather', serif;
+}
+hr{
+    border-style: dotted none none;
+    border-color: #66BFBF;
+    border-width: 7px;
+    width: 10%;
+  }
+.d{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+.k{
+  color: #11999E;
+  background-color: #66BFBF;
+  height: 400px; width: 100;
+}
+.g{
+  color: #11999E;
+}
+.nm{
+  width: 300px; height: 2px;
+  background-color: white;
+  border-style: none;
+}
+/*h1{
+  margin-bottom: 5px;
+}*/
+.v{
+  position: absolute;
+  left: 50px;
+}
+.y{
+  margin-bottom: 5px;
+  font-family: 'Montserrat', sans-serif;
+}
+.z{
+  position: absolute;
+  left: 310px; top: 80px;
+}
+.r{
+  color: white;
+}
