@@ -101,3 +101,9 @@ hr{
 .r{
   color: white;
 }
+.x{
+  display: flex;
+  line-height: 2;
+  width: 33%;
+  margin: auto;
+}
